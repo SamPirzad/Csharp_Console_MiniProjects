@@ -1,3 +1,13 @@
+/*
+This app inputs three angles and chacks if you can make a triangle with it or not
+Example input : 
+50
+60
+70
+Example Output:
+Yes
+*/
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
